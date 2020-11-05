@@ -1,0 +1,5 @@
+opentracing:
+  jaeger:
+    udp-sender:
+      host: 192.168.16.211
+      port: 30668
